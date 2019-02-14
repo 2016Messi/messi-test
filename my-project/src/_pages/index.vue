@@ -5,7 +5,7 @@
       <Button style="margin-bottom: 16px;" @click="button(flag)">{{flag ? '停止' :'我想一下'}}</Button>
       <h2>{{place[x]}}</h2>
     </div>
-    <video src="https://1252524126.vod2.myqcloud.com/fdae72e7vodtranshk1252524126/1e2b57785285890784159594703/drm/voddrm.token.YWRmZWMzMmZhZWRjZWM4Y1VMTmZJSkk3YVRFS1RoUkxjbUo0dVVodG9VZmM5ekxTT0dpeXBCZTFCMHN5VjJabg.v.f230.m3u8"></video>
+    <video src="http://1252524126.vod2.myqcloud.com/fdae72e7vodtranshk1252524126/1e2b57785285890784159594703/drm/voddrm.token.YWRmZWMzMmZhZWRjZWM4Y1VMTmZJSkk3YVRFS1RoUkxjbUo0dVVodG9VZmM5ekxTT0dpeXBCZTFCMHN5VjJabg.v.f230.m3u8"></video>
   </div>
 </template>
 
