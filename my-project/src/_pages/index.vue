@@ -1,11 +1,14 @@
 <template>
-  <div class="index-wrap">
+  <!-- <div class="index-wrap">
     <div>
       <h1 style="margin-bottom: 16px;">五一假期去哪里玩</h1>
       <Button style="margin-bottom: 16px;" @click="button(flag)">{{flag ? '停止' :'我想一下'}}</Button>
       <h2>{{place[x]}}</h2>
-    </div>
-    <video controls src="http://1252524126.vod2.myqcloud.com/fdae72e7vodtranshk1252524126/1e2b57785285890784159594703/drm/voddrm.token.YWRmZWMzMmZhZWRjZWM4Y1VMTmZJSkk3YVRFS1RoUkxjbUo0dVVodG9VZmM5ekxTT0dpeXBCZTFCMHN5VjJabg.v.f230.m3u8"></video>
+      <img src="http://admin.inside.xiaoe-tech.com/punch_card/get_h5_qrcode/apppcHqlTPT3482/0/ac_5c7747509abdd_maGZyeRn" alt="">
+    </div> -->
+  <!-- </div> -->
+  <div>
+    <video src="http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/6b8babae5285890786435081820/drm/v.f230.m3u8"></video>
   </div>
 </template>
 
@@ -33,7 +36,25 @@ export default {
             }
         },10)
       }
+    },
+    popsort (arr) {
+      if (arr instanceof Array) {
+        var len = arr.length;
+        for (var i = 0; i < len; i++) {
+            for (var j = 0; j < len - 1 - i; j++) {
+                if (arr[j] > arr[j+1]) {
+                    var temp = arr[j+1];  
+                    arr[j+1] = arr[j];
+                    arr[j] = temp;
+                }
+            }
+        }
+        return arr;
+      } else {
+        return
+      }
     }
+
   },
 }
 </script>
