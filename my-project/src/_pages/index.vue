@@ -8,7 +8,7 @@
     </div> -->
   <!-- </div> -->
   <div>
-    <video src="http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/6b8babae5285890786435081820/drm/v.f230.m3u8"></video>
+    <video controls src="http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/6b8babae5285890786435081820/drm/v.f230.m3u8"></video>
   </div>
 </template>
 
