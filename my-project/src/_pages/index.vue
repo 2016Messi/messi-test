@@ -8,7 +8,7 @@
     </div> -->
   <!-- </div> -->
   <div>
-    <video controls src="http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/6b8babae5285890786435081820/drm/v.f230.m3u8"></video>
+    <video class="video" controls src="http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/6b8babae5285890786435081820/drm/v.f230.m3u8"></video>
   </div>
 </template>
 
@@ -66,5 +66,10 @@ export default {
    display: flex;
    justify-content: center;
    align-items: center;
+ }
+
+ .video {
+   width: 100vw;
+   height: 350px;
  }
 </style>
