@@ -8,7 +8,8 @@
     </div> -->
   <!-- </div> -->
   <div>
-    <video class="video" controls src="http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/6b8babae5285890786435081820/drm/v.f230.m3u8"></video>
+    <!-- <video class="video" controls src="http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/6b8babae5285890786435081820/drm/v.f230.m3u8"></video> -->
+  <a href="http://apppchqltpt3482.h5.inside.xiaoeknow.com/xiaoe_clock/calendar_clock/ac_5c9c7618eeadd_1VyZOLSp">跳转测试</a>
   </div>
 </template>
 
