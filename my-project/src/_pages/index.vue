@@ -9,7 +9,7 @@
   <!-- </div> -->
   <div>
     <!-- <video class="video" controls src="http://1252524126.vod2.myqcloud.com/9764a7a5vodtransgzp1252524126/6b8babae5285890786435081820/drm/v.f230.m3u8"></video> -->
-  <a href="http://wxdd198a901fa24220.h5.inside.xiaoe-tech.com/content_page/eyJ0eXBlIjoyLCJyZXNvdXJjZV90eXBlIjoxNiwicmVzb3VyY2VfaWQiOiJhY181YzljOGIzZjYzOGYyXzBmU3Q5NU9UIiwicHJvZHVjdF9pZCI6IiIsImFwcF9pZCI6ImFwcHBjSHFsVFBUMzQ4MiJ9?join_id=">跳转测试</a>
+  <a href="http://wxdd198a901fa24220.h5.inside.xiaoe-tech.com/xiaoe_clock/calendar_clock/ac_5c9cc67550f12_owHJj5cp#/calendarClock">跳转测试</a>
   </div>
 </template>
 
